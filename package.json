@@ -1,5 +1,5 @@
 {
-  "name": "foobar",
+  "name": "emobook",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -30,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous node/sails user/foobar.git"
+    "url": "git://github.com/amoraleda/emobook.git"
   },
-  "author": "anonymous node/sails user",
+  "author": "amoraleda",
   "license": ""
 }
