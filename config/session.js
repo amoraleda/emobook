@@ -54,7 +54,7 @@ module.exports.session = {
   host: 'soapfish.redistogo.com',
   port: 9735,
   user: 'redistogo',
-  pass: '4cc43db3c011aeeac6abced23b76208a',
+  pass: '4cc43db3c011aeeac6abced23b76208a'
   // ttl: <redis session TTL in seconds>,
   // db: 0,
   // prefix: 'sess:',
