@@ -47,8 +47,8 @@ module.exports.sockets = {
   adapter: 'redis',
   host: 'soapfish.redistogo.com',
   port: 9735,
-  // db: 'sails',
   pass: '4cc43db3c011aeeac6abced23b76208a',
+  // db: 'sails',
 
 
  /***************************************************************************
